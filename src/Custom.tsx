@@ -7,7 +7,7 @@ type CustomProps = {
 }
 
 const Custom : React.FC<CustomProps> = (props) => {
-    const v1 = StyleConstants.MediumScreenSelector;
+    const v1 = StyleConstants.MinimumScreenSelector;
     console.log(v1);
 
     return <div>Custom Information</div>

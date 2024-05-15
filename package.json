@@ -12,10 +12,6 @@
 		"lint": "eslint . --fix --max-warnings=0",
 		"format": "prettier . --write"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Yvad60/blog-code-references.git"
-	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
